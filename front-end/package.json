@@ -21,9 +21,9 @@
   "dependencies": {
     "@headlessui/react": "^1.7.10",
     "@radix-ui/colors": "^0.1.8",
-    "@radix-ui/react-dialog": "^1.0.2",
+    "@radix-ui/react-dialog": "^1.0.3",
     "@radix-ui/react-dropdown-menu": "^2.0.2",
-    "@radix-ui/react-scroll-area": "^1.0.2",
+    "@radix-ui/react-scroll-area": "^1.0.3",
     "@testing-library/jest-dom": "5.16.2",
     "@testing-library/react": "12.1.4",
     "@testing-library/user-event": "13.5.0",
